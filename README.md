@@ -9,8 +9,7 @@
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=novalmahardhika&color=00ff41&style=for-the-badge&label=VISITORS)
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=Building+scalable+systems+since+2023;TypeScript+%7C+React+%7C+NestJS+%7C+AWS;Turning+coffee+into+production+deploys)
-
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=Building+scalable+systems+since+2022;TypeScript+%7C+React+%7C+NestJS+%7C+AWS;99+little+bugs+in+the+code...;Take+one+down%2C+patch+it+around;127+little+bugs+in+the+code;It+works+on+my+machine+%F0%9F%A4%B7;Ctrl%2BC+%2B+Ctrl%2BV+%3D+Full-Stack+Engineer)
 
 ``` ███╗ ██╗ ██████╗ ██╗ ██╗ █████╗ ██╗ ████╗ ██║██╔═══██╗██║ ██║██╔══██╗██║ ██╔██╗ ██║██║ ██║██║ ██║███████║██║ ██║╚██╗██║██║ ██║╚██╗ ██╔╝██╔══██║██║ ██║ ╚████║╚██████╔╝ ╚████╔╝ ██║ ██║███████╗ ╚═╝ ╚═══╝ ╚═════╝ ╚═══╝ ╚═╝ ╚═╝╚══════╝ ``` 
 </div>
